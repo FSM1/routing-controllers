@@ -1,5 +1,7 @@
 # routing-controllers
 
+This is a fork of [Routing-Controllers](https://github.com/typestack/routing-controllers) with an updated 'class-validator' dependency to allow for validation when using other pieces of the TyepStack architecture.
+
 [![Build Status](https://travis-ci.org/typestack/routing-controllers.svg?branch=master)](https://travis-ci.org/typestack/routing-controllers)
 [![codecov](https://codecov.io/gh/typestack/routing-controllers/branch/master/graph/badge.svg)](https://codecov.io/gh/typestack/routing-controllers)
 [![npm version](https://badge.fury.io/js/routing-controllers.svg)](https://badge.fury.io/js/routing-controllers)
